@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-whats-app-a8ebe": {
+      "hosting": {
+        "whatsapp": [
+          "my-whats-app-a8ebe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "my-whatsapp": "my-whats-app-a8ebe"
+  }
+}
